@@ -7,7 +7,8 @@ ShaqDetector is a facial recognition application built with React, Flask, and Te
 ## Table of Contents
 
 - [Overview](#overview)
-- [Get Started Guide](#get-started)
+- [CNN Performance](#cnn-performance)
+- [Get Started](#get-started)
 - [Thanks](#thanks)
 
 ## Overview
